@@ -36,7 +36,9 @@
   }
 }
 
-
+a{
+  text-decoration:none;
+}
 .animation-wrapper {
   width: 100%;
   
